@@ -33,6 +33,12 @@ Commands:
 * ng g s apiservice
 
 
+Adding Bootstrap:
+1. Go to https://getbootstrap.com/ 
+2. copy bootstrap.min.css and bootstrap.bundle.min.js links
+3. Open index.html page and paste .css link in the head section and .js after body section
+
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
