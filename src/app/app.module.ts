@@ -28,7 +28,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [  ApiserviceService ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
