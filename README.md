@@ -25,6 +25,8 @@ Commands:
 * ng serve -o
 * ng serve -open
 * ng g c department
+* ng g c department/add-edit-department
+* ng g c department/show-department
 
 
 
