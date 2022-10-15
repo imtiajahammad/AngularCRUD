@@ -9,6 +9,10 @@ import { ShowDepartmentComponent } from './department/show-department/show-depar
 import { EmployeeComponent } from './employee/employee.component';
 import { AddEditEmployeeComponent } from './employee/add-edit-employee/add-edit-employee.component';
 import { ShowEmployeeComponent } from './employee/show-employee/show-employee.component';
+import { ApiserviceService } from './apiservice.service';
+
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
