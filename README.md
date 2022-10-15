@@ -29,7 +29,7 @@ Commands:
 * ng g c department/show-department
 * ng g c employee
 * ng g c employee/add-edit-employee
-
+* ng g c employee/show-employee
 
 
 
