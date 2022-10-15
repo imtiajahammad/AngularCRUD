@@ -38,6 +38,10 @@ Adding Bootstrap:
 2. copy bootstrap.min.css and bootstrap.bundle.min.js links
 3. Open index.html page and paste .css link in the head section and .js after body section
 
+Register Modules:
+1. add services in providers in app.module.ts
+2. add imports in app.module.ts for HttpClient,FormsModule,ReactiveFormsModule
+
 
 
 
