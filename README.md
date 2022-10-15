@@ -46,6 +46,9 @@ Add Routing:
 1. adding routes for department in app-routing.module.ts for routes
 2. adding routes for employee in app-routing.module.ts for routes
 
+Navigating menus for routing:
+1. Open app.component.html
+2. add navigations
 
 
 
