@@ -1,5 +1,29 @@
 # AngularCRUD
 
+This is the consumer application for the asp.net core web API. It is just to practice angular services for integrating with asp.net core rest apis
+
+Producer REST API Application: https://github.com/imtiajahammad/EmployeeMCrud
+
+
+Reference : https://www.c-sharpcorner.com/article/angular-crud-using-net-core-web-api/
+
+Key features:
+                * Create Angular App 
+                * Adding Services
+                * Adding Components
+                * Adding Bootstrap
+                * Register modules
+                * Add Routing  
+                * Navigating menus for routing
+                * Adding component codes
+                * Filtering & Sorting
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
