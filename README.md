@@ -42,6 +42,10 @@ Register Modules:
 1. add services in providers in app.module.ts
 2. add imports in app.module.ts for HttpClient,FormsModule,ReactiveFormsModule
 
+Add Routing:
+1. adding routes for department in app-routing.module.ts for routes
+2. adding routes for employee in app-routing.module.ts for routes
+
 
 
 
