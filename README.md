@@ -5,9 +5,11 @@ This is the consumer application for the asp.net core web API. It is just to pra
 Producer REST API Application: https://github.com/imtiajahammad/EmployeeMCrud
 
 
-Reference : https://www.c-sharpcorner.com/article/angular-crud-using-net-core-web-api/
+Reference : 
+https://www.c-sharpcorner.com/article/angular-crud-using-net-core-web-api/
 
 Key features:
+
                 * Create Angular App 
                 * Adding Services
                 * Adding Components
@@ -18,7 +20,11 @@ Key features:
                 * Adding component codes
                 * Filtering & Sorting
 
-
+Commands: 
+* ng new AngularCRUD
+* ng serve -o
+* ng serve -open
+* ng g c department
 
 
 
