@@ -51,6 +51,11 @@ Navigating menus for routing:
 2. add navigations
 
 
+Adding service, component codes & Filtering & Sorting
+1. Injecting httpClient into constractor
+2. adding functions for department apis
+3. Adding functions for employee apis
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
